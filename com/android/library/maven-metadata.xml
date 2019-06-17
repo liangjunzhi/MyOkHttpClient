@@ -3,7 +3,7 @@
   <groupId>com.android</groupId>
   <artifactId>library</artifactId>
   <versioning>
-    <release>1.6</release>
+    <release>1.6.1</release>
     <versions>
       <version>1.1</version>
       <version>1.2</version>
@@ -11,7 +11,8 @@
       <version>1.4</version>
       <version>1.5</version>
       <version>1.6</version>
+      <version>1.6.1</version>
     </versions>
-    <lastUpdated>20190617025413</lastUpdated>
+    <lastUpdated>20190617025757</lastUpdated>
   </versioning>
 </metadata>
